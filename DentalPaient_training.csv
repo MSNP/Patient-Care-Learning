@@ -1,0 +1,433 @@
+﻿Patient id,Age,Gender,Complaint,Examination,Symptom,Diagnosis,Recommendation
+1,6,Male,Pain,,Tooth Pain,Dental Caries,Filling/Root canal/etc
+2,9,Female,Pain,,Sensitive teeth,Tooth decay,Filling/Root canal/etc
+3,11,Male,Pain,,Bleeding or soring gums,Gingivitis,Scaling
+4,15,Female,ulcers,fungal infection,Mouth ulcers and sores,Candidiasis,antifungal medication
+5,18,Male,ulcers,,Mouth ulcers and sores,Canker sores,no specific treatment
+6,19,Female,Other,,Bad breath,Dry mouth,Sialagogues
+7,21,Male,Pain,,Jaw pain or popping /clicking in jaw,arthritis,Nsaids/analagesics/surgery/physical therapy
+8,14,Female,Pain,,cracked or broken tooth,,extraction
+9,15,Male,Other,,stained or discolored teeth,discolored teeth,scaling
+10,18,Female,Pain,,Tooth Pain,Abscess,Diran the abscess/antibiotics
+11,15,Male,Pain,,Sensitive teeth,Fractured tooth,Extraction
+12,13,Female,Pain,,Bleeding or soring gums,,
+13,10,Male,ulcers,,Mouth ulcers and sores,Cold sores,topical anesthetics
+14,8,Female,ulcers,,Mouth ulcers and sores,Leukoplakia,Topical ointments containing retinoic acid
+15,6,Male,Other,,Bad breath,poor oral hygiene,Mouth rinse/Scaling
+16,35,Female,Pain,,Jaw pain or popping /clicking in jaw,dislocated jaw,local anesthetics/muscle relaxants
+17,32,Male,Pain,,cracked or broken tooth,,extraction
+18,38,Female,Other,,stained or discolored teeth,discolored teeth,scaling
+19,29,Male,Pain,,Tooth Pain,Impacted tooth,Extraction
+20,27,Female,Pain,,Sensitive teeth,Worn fillings,Refilling
+21,24,Male,Pain,,Bleeding or soring gums,,extraction
+22,27,Female,ulcers,fungal infection,Mouth ulcers and sores,Candidiasis,antifungal medication
+23,40,Male,ulcers,,Mouth ulcers and sores,Canker sores,no specific treatment
+24,45,Female,Other,,Bad breath,,
+25,43,Male,Pain,,Jaw pain or popping /clicking in jaw,malocclusion,orthodontic treatment
+26,50,Female,Pain,,cracked or broken tooth,,extraction
+27,28,Male,Other,,stained or discolored teeth,discolored teeth,scaling
+28,17,Female,Pain,,Tooth Pain,Dental Caries,Filling/Root canal/etc
+29,25,Male,Pain,,Sensitive teeth,Tooth decay,Filling/Root canal/etc
+30,36,Female,Pain,,Bleeding or soring gums,Gingivitis,Scaling
+31,42,Male,ulcers,fungal infection,Mouth ulcers and sores,Candidiasis,antifungal medication
+32,44,Female,ulcers,,Mouth ulcers and sores,Canker sores,no specific treatment
+33,42,Male,Other,,Bad breath,Dry mouth,Sialagogues
+34,41,Female,Pain,,Jaw pain or popping /clicking in jaw,arthritis,Nsaids/analagesics/surgery/physical therapy
+35,18,Male,Pain,,cracked or broken tooth,,extraction
+36,19,Female,Other,,stained or discolored teeth,discolored teeth,scaling
+37,6,Male,Pain,,Tooth Pain,Abscess,Diran the abscess/antibiotics
+38,67,Female,Pain,,Sensitive teeth,Fractured tooth,Extraction
+39,24,Male,Pain,,Bleeding or soring gums,,
+40,28,Female,ulcers,,Mouth ulcers and sores,Cold sores,topical anesthetics
+41,32,Male,ulcers,,Mouth ulcers and sores,Leukoplakia,Topical ointments containing retinoic acid
+42,35,Female,Other,,Bad breath,poor oral hygiene,Mouth rinse/Scaling
+43,39,Male,Pain,,Jaw pain or popping /clicking in jaw,dislocated jaw,local anesthetics/muscle relaxants
+44,41,Female,Pain,,cracked or broken tooth,,extraction
+45,71,Male,Other,,stained or discolored teeth,discolored teeth,scaling
+46,68,Female,Pain,,Tooth Pain,Impacted tooth,Extraction
+47,63,Male,Pain,,Sensitive teeth,Worn fillings,Refilling
+48,29,Female,Pain,,Bleeding or soring gums,,extraction
+49,64,Male,ulcers,fungal infection,Mouth ulcers and sores,Candidiasis,antifungal medication
+50,59,Female,ulcers,,Mouth ulcers and sores,Canker sores,no specific treatment
+51,49,Male,Other,,Bad breath,,
+52,42,Female,Pain,,Jaw pain or popping /clicking in jaw,malocclusion,orthodontic treatment
+53,39,Male,Pain,,cracked or broken tooth,,extraction
+54,31,Female,Other,,stained or discolored teeth,discolored teeth,scaling
+55,48,Male,Pain,,Tooth Pain,Dental Caries,Filling/Root canal/etc
+56,46,Female,Pain,,Sensitive teeth,Tooth decay,Filling/Root canal/etc
+57,47,Male,Pain,,Bleeding or soring gums,Gingivitis,Scaling
+58,43,Female,ulcers,fungal infection,Mouth ulcers and sores,Candidiasis,antifungal medication
+59,15,Male,ulcers,,Mouth ulcers and sores,Canker sores,no specific treatment
+60,18,Female,Other,,Bad breath,Dry mouth,Sialagogues
+61,19,Male,Pain,,Jaw pain or popping /clicking in jaw,arthritis,Nsaids/analagesics/surgery/physical therapy
+62,21,Female,Pain,,cracked or broken tooth,,extraction
+63,14,Male,Other,,stained or discolored teeth,discolored teeth,scaling
+64,15,Female,Pain,,Tooth Pain,Abscess,Diran the abscess/antibiotics
+65,18,Male,Pain,,Sensitive teeth,Fractured tooth,Extraction
+66,15,Female,Pain,,Bleeding or soring gums,,
+67,13,Male,ulcers,,Mouth ulcers and sores,Cold sores,topical anesthetics
+68,10,Female,ulcers,,Mouth ulcers and sores,Leukoplakia,Topical ointments containing retinoic acid
+69,8,Male,Other,,Bad breath,poor oral hygiene,Mouth rinse/Scaling
+70,6,Female,Pain,,Jaw pain or popping /clicking in jaw,dislocated jaw,local anesthetics/muscle relaxants
+71,35,Male,Pain,,cracked or broken tooth,,extraction
+72,32,Female,Other,,stained or discolored teeth,discolored teeth,scaling
+73,38,Male,Pain,,Tooth Pain,Impacted tooth,Extraction
+74,29,Female,Pain,,Sensitive teeth,Worn fillings,Refilling
+75,27,Male,Pain,,Bleeding or soring gums,,extraction
+76,24,Female,ulcers,fungal infection,Mouth ulcers and sores,Candidiasis,antifungal medication
+77,27,Male,ulcers,,Mouth ulcers and sores,Canker sores,no specific treatment
+78,40,Female,Other,,Bad breath,,
+79,45,Male,Pain,,Jaw pain or popping /clicking in jaw,malocclusion,orthodontic treatment
+80,43,Female,Pain,,cracked or broken tooth,,extraction
+81,50,Male,Other,,stained or discolored teeth,discolored teeth,scaling
+82,28,Female,Pain,,Tooth Pain,Dental Caries,Filling/Root canal/etc
+83,17,Male,Pain,,Sensitive teeth,Tooth decay,Filling/Root canal/etc
+84,25,Female,Pain,,Bleeding or soring gums,Gingivitis,Scaling
+85,36,Male,ulcers,fungal infection,Mouth ulcers and sores,Candidiasis,antifungal medication
+86,42,Female,ulcers,,Mouth ulcers and sores,Canker sores,no specific treatment
+87,44,Male,Other,,Bad breath,Dry mouth,Sialagogues
+88,42,Female,Pain,,Jaw pain or popping /clicking in jaw,arthritis,Nsaids/analagesics/surgery/physical therapy
+89,41,Male,Pain,,cracked or broken tooth,,extraction
+90,18,Female,Other,,stained or discolored teeth,discolored teeth,scaling
+91,19,Male,Pain,,Tooth Pain,Abscess,Diran the abscess/antibiotics
+92,6,Female,Pain,,Sensitive teeth,Fractured tooth,Extraction
+93,67,Male,Pain,,Bleeding or soring gums,,
+94,24,Female,ulcers,,Mouth ulcers and sores,Cold sores,topical anesthetics
+95,28,Male,ulcers,,Mouth ulcers and sores,Leukoplakia,Topical ointments containing retinoic acid
+96,32,Female,Other,,Bad breath,poor oral hygiene,Mouth rinse/Scaling
+97,35,Male,Pain,,Jaw pain or popping /clicking in jaw,dislocated jaw,local anesthetics/muscle relaxants
+98,39,Female,Pain,,cracked or broken tooth,,extraction
+99,41,Male,Other,,stained or discolored teeth,discolored teeth,scaling
+100,71,Female,Pain,,Tooth Pain,Impacted tooth,Extraction
+101,68,Male,Pain,,Sensitive teeth,Worn fillings,Refilling
+102,63,Female,Pain,,Bleeding or soring gums,,extraction
+103,29,Male,ulcers,fungal infection,Mouth ulcers and sores,Candidiasis,antifungal medication
+104,64,Female,ulcers,,Mouth ulcers and sores,Canker sores,no specific treatment
+105,59,Male,Other,,Bad breath,,
+106,49,Female,Pain,,Jaw pain or popping /clicking in jaw,malocclusion,orthodontic treatment
+107,42,Male,Pain,,cracked or broken tooth,,extraction
+108,39,Female,Other,,stained or discolored teeth,discolored teeth,scaling
+109,31,Male,Pain,,Tooth Pain,Dental Caries,Filling/Root canal/etc
+110,48,Female,Pain,,Sensitive teeth,Tooth decay,Filling/Root canal/etc
+111,46,Male,Pain,,Bleeding or soring gums,Gingivitis,Scaling
+112,47,Female,ulcers,fungal infection,Mouth ulcers and sores,Candidiasis,antifungal medication
+113,43,Male,ulcers,,Mouth ulcers and sores,Canker sores,no specific treatment
+114,19,Female,Other,,Bad breath,Dry mouth,Sialagogues
+115,6,Male,Pain,,Jaw pain or popping /clicking in jaw,arthritis,Nsaids/analagesics/surgery/physical therapy
+116,67,Female,Pain,,cracked or broken tooth,,extraction
+117,24,Male,Other,,stained or discolored teeth,discolored teeth,scaling
+118,28,Female,Pain,,Tooth Pain,Abscess,Diran the abscess/antibiotics
+119,32,Male,Pain,,Sensitive teeth,Fractured tooth,Extraction
+120,35,Female,Pain,,Bleeding or soring gums,,
+121,39,Male,ulcers,,Mouth ulcers and sores,Cold sores,topical anesthetics
+122,41,Female,ulcers,,Mouth ulcers and sores,Leukoplakia,Topical ointments containing retinoic acid
+123,71,Male,Other,,Bad breath,poor oral hygiene,Mouth rinse/Scaling
+124,68,Female,Pain,,Jaw pain or popping /clicking in jaw,dislocated jaw,local anesthetics/muscle relaxants
+125,63,Male,Pain,,cracked or broken tooth,,extraction
+126,29,Female,Other,,stained or discolored teeth,discolored teeth,scaling
+127,64,Male,Pain,,Tooth Pain,Impacted tooth,Extraction
+128,59,Female,Pain,,Sensitive teeth,Worn fillings,Refilling
+129,49,Male,Pain,,Bleeding or soring gums,,extraction
+130,42,Female,ulcers,fungal infection,Mouth ulcers and sores,Candidiasis,antifungal medication
+131,39,Male,ulcers,,Mouth ulcers and sores,Canker sores,no specific treatment
+132,31,Female,Other,,Bad breath,,
+133,48,Male,Pain,,Jaw pain or popping /clicking in jaw,malocclusion,orthodontic treatment
+134,46,Female,Pain,,cracked or broken tooth,,extraction
+135,47,Male,Other,,stained or discolored teeth,discolored teeth,scaling
+136,43,Female,Pain,,Tooth Pain,Dental Caries,Filling/Root canal/etc
+137,19,Male,Pain,,Sensitive teeth,Tooth decay,Filling/Root canal/etc
+138,6,Female,Pain,,Bleeding or soring gums,Gingivitis,Scaling
+139,67,Male,ulcers,fungal infection,Mouth ulcers and sores,Candidiasis,antifungal medication
+140,24,Female,ulcers,,Mouth ulcers and sores,Canker sores,no specific treatment
+141,28,Male,Other,,Bad breath,Dry mouth,Sialagogues
+142,32,Female,Pain,,Jaw pain or popping /clicking in jaw,arthritis,Nsaids/analagesics/surgery/physical therapy
+143,35,Male,Pain,,cracked or broken tooth,,extraction
+144,39,Female,Other,,stained or discolored teeth,discolored teeth,scaling
+145,41,Male,Pain,,Tooth Pain,Abscess,Diran the abscess/antibiotics
+146,71,Female,Pain,,Sensitive teeth,Fractured tooth,Extraction
+147,68,Male,Pain,,Bleeding or soring gums,,
+148,63,Female,ulcers,,Mouth ulcers and sores,Cold sores,topical anesthetics
+149,29,Male,ulcers,,Mouth ulcers and sores,Leukoplakia,Topical ointments containing retinoic acid
+150,64,Female,Other,,Bad breath,poor oral hygiene,Mouth rinse/Scaling
+151,59,Male,Pain,,Jaw pain or popping /clicking in jaw,dislocated jaw,local anesthetics/muscle relaxants
+152,49,Female,Pain,,cracked or broken tooth,,extraction
+153,42,Male,Other,,stained or discolored teeth,discolored teeth,scaling
+154,39,Female,Pain,,Tooth Pain,Impacted tooth,Extraction
+155,31,Male,Pain,,Sensitive teeth,Worn fillings,Refilling
+156,48,Female,Pain,,Bleeding or soring gums,,extraction
+157,46,Male,ulcers,fungal infection,Mouth ulcers and sores,Candidiasis,antifungal medication
+158,47,Female,ulcers,,Mouth ulcers and sores,Canker sores,no specific treatment
+159,43,Male,Other,,Bad breath,,
+160,15,Female,Pain,,Jaw pain or popping /clicking in jaw,malocclusion,orthodontic treatment
+161,18,Male,Pain,,cracked or broken tooth,,extraction
+162,19,Female,Other,,stained or discolored teeth,discolored teeth,scaling
+163,21,Male,Pain,,Tooth Pain,Dental Caries,Filling/Root canal/etc
+164,14,Female,Pain,,Sensitive teeth,Tooth decay,Filling/Root canal/etc
+165,15,Male,Pain,,Bleeding or soring gums,Gingivitis,Scaling
+166,18,Female,ulcers,fungal infection,Mouth ulcers and sores,Candidiasis,antifungal medication
+167,15,Male,ulcers,,Mouth ulcers and sores,Canker sores,no specific treatment
+168,13,Female,Other,,Bad breath,Dry mouth,Sialagogues
+169,10,Male,Pain,,Jaw pain or popping /clicking in jaw,arthritis,Nsaids/analagesics/surgery/physical therapy
+170,8,Female,Pain,,cracked or broken tooth,,extraction
+171,6,Male,Other,,stained or discolored teeth,discolored teeth,scaling
+172,35,Female,Pain,,Tooth Pain,Abscess,Diran the abscess/antibiotics
+173,32,Male,Pain,,Sensitive teeth,Fractured tooth,Extraction
+174,38,Female,Pain,,Bleeding or soring gums,,
+175,29,Male,ulcers,,Mouth ulcers and sores,Cold sores,topical anesthetics
+176,27,Female,ulcers,,Mouth ulcers and sores,Leukoplakia,Topical ointments containing retinoic acid
+177,24,Male,Other,,Bad breath,poor oral hygiene,Mouth rinse/Scaling
+178,27,Female,Pain,,Jaw pain or popping /clicking in jaw,dislocated jaw,local anesthetics/muscle relaxants
+179,40,Male,Pain,,cracked or broken tooth,,extraction
+180,45,Female,Other,,stained or discolored teeth,discolored teeth,scaling
+181,43,Male,Pain,,Tooth Pain,Impacted tooth,Extraction
+182,50,Female,Pain,,Sensitive teeth,Worn fillings,Refilling
+183,28,Male,Pain,,Bleeding or soring gums,,extraction
+184,17,Female,ulcers,fungal infection,Mouth ulcers and sores,Candidiasis,antifungal medication
+185,25,Male,ulcers,,Mouth ulcers and sores,Canker sores,no specific treatment
+186,36,Female,Other,,Bad breath,,
+187,42,Male,Pain,,Jaw pain or popping /clicking in jaw,malocclusion,orthodontic treatment
+188,44,Female,Pain,,cracked or broken tooth,,extraction
+189,42,Male,Other,,stained or discolored teeth,discolored teeth,scaling
+190,41,Female,Pain,,Tooth Pain,Dental Caries,Filling/Root canal/etc
+191,18,Male,Pain,,Sensitive teeth,Tooth decay,Filling/Root canal/etc
+192,19,Female,Pain,,Bleeding or soring gums,Gingivitis,Scaling
+193,6,Male,ulcers,fungal infection,Mouth ulcers and sores,Candidiasis,antifungal medication
+194,67,Female,ulcers,,Mouth ulcers and sores,Canker sores,no specific treatment
+195,24,Male,Other,,Bad breath,Dry mouth,Sialagogues
+196,28,Female,Pain,,Jaw pain or popping /clicking in jaw,arthritis,Nsaids/analagesics/surgery/physical therapy
+197,32,Male,Pain,,cracked or broken tooth,,extraction
+198,35,Female,Other,,stained or discolored teeth,discolored teeth,scaling
+199,39,Male,Pain,,Tooth Pain,Abscess,Diran the abscess/antibiotics
+200,41,Female,Pain,,Sensitive teeth,Fractured tooth,Extraction
+201,71,Male,Pain,,Bleeding or soring gums,,
+202,68,Female,ulcers,,Mouth ulcers and sores,Cold sores,topical anesthetics
+203,63,Male,ulcers,,Mouth ulcers and sores,Leukoplakia,Topical ointments containing retinoic acid
+204,29,Female,Other,,Bad breath,poor oral hygiene,Mouth rinse/Scaling
+205,64,Male,Pain,,Jaw pain or popping /clicking in jaw,dislocated jaw,local anesthetics/muscle relaxants
+206,59,Female,Pain,,cracked or broken tooth,,extraction
+207,49,Male,Other,,stained or discolored teeth,discolored teeth,scaling
+208,42,Female,Pain,,Tooth Pain,Impacted tooth,Extraction
+209,39,Male,Pain,,Sensitive teeth,Worn fillings,Refilling
+210,31,Female,Pain,,Bleeding or soring gums,,extraction
+211,48,Male,ulcers,fungal infection,Mouth ulcers and sores,Candidiasis,antifungal medication
+212,46,Female,ulcers,,Mouth ulcers and sores,Canker sores,no specific treatment
+213,47,Male,Other,,Bad breath,,
+214,43,Female,Pain,,Jaw pain or popping /clicking in jaw,malocclusion,orthodontic treatment
+215,19,Male,Pain,,cracked or broken tooth,,extraction
+216,6,Female,Other,,stained or discolored teeth,discolored teeth,scaling
+217,67,Male,Pain,,Tooth Pain,Dental Caries,Filling/Root canal/etc
+218,24,Female,Pain,,Sensitive teeth,Tooth decay,Filling/Root canal/etc
+219,28,Male,Pain,,Bleeding or soring gums,Gingivitis,Scaling
+220,32,Female,ulcers,fungal infection,Mouth ulcers and sores,Candidiasis,antifungal medication
+221,35,Male,ulcers,,Mouth ulcers and sores,Canker sores,no specific treatment
+222,39,Female,Other,,Bad breath,Dry mouth,Sialagogues
+223,41,Male,Pain,,Jaw pain or popping /clicking in jaw,arthritis,Nsaids/analagesics/surgery/physical therapy
+224,71,Female,Pain,,cracked or broken tooth,,extraction
+225,68,Male,Other,,stained or discolored teeth,discolored teeth,scaling
+226,63,Female,Pain,,Tooth Pain,Abscess,Diran the abscess/antibiotics
+227,29,Male,Pain,,Sensitive teeth,Fractured tooth,Extraction
+228,64,Female,Pain,,Bleeding or soring gums,,
+229,59,Male,ulcers,,Mouth ulcers and sores,Cold sores,topical anesthetics
+230,49,Female,ulcers,,Mouth ulcers and sores,Leukoplakia,Topical ointments containing retinoic acid
+231,42,Male,Other,,Bad breath,poor oral hygiene,Mouth rinse/Scaling
+232,39,Female,Pain,,Jaw pain or popping /clicking in jaw,dislocated jaw,local anesthetics/muscle relaxants
+233,31,Male,Pain,,cracked or broken tooth,,extraction
+234,48,Female,Other,,stained or discolored teeth,discolored teeth,scaling
+235,46,Male,Pain,,Tooth Pain,Impacted tooth,Extraction
+236,47,Female,Pain,,Sensitive teeth,Worn fillings,Refilling
+237,43,Male,Pain,,Bleeding or soring gums,,extraction
+238,67,Male,ulcers,fungal infection,Mouth ulcers and sores,Candidiasis,antifungal medication
+239,24,Female,ulcers,,Mouth ulcers and sores,Canker sores,no specific treatment
+240,28,Male,Other,,Bad breath,,
+241,32,Male,Pain,,Jaw pain or popping /clicking in jaw,malocclusion,orthodontic treatment
+242,35,Female,Pain,,cracked or broken tooth,,extraction
+243,39,Male,Other,,stained or discolored teeth,discolored teeth,scaling
+244,41,Male,Pain,,Tooth Pain,Dental Caries,Filling/Root canal/etc
+245,71,Female,Pain,,Sensitive teeth,Tooth decay,Filling/Root canal/etc
+246,68,Male,Pain,,Bleeding or soring gums,Gingivitis,Scaling
+247,63,Male,ulcers,fungal infection,Mouth ulcers and sores,Candidiasis,antifungal medication
+248,29,Female,ulcers,,Mouth ulcers and sores,Canker sores,no specific treatment
+249,64,Male,Other,,Bad breath,Dry mouth,Sialagogues
+250,59,Male,Pain,,Jaw pain or popping /clicking in jaw,arthritis,Nsaids/analagesics/surgery/physical therapy
+251,49,Female,Pain,,cracked or broken tooth,,extraction
+252,42,Male,Other,,stained or discolored teeth,discolored teeth,scaling
+253,39,Male,Pain,,Tooth Pain,Abscess,Diran the abscess/antibiotics
+254,31,Female,Pain,,Sensitive teeth,Fractured tooth,Extraction
+255,48,Male,Pain,,Bleeding or soring gums,,
+256,46,Male,ulcers,,Mouth ulcers and sores,Cold sores,topical anesthetics
+257,47,Female,ulcers,,Mouth ulcers and sores,Leukoplakia,Topical ointments containing retinoic acid
+258,43,Male,Other,,Bad breath,poor oral hygiene,Mouth rinse/Scaling
+259,19,Male,Pain,,Jaw pain or popping /clicking in jaw,dislocated jaw,local anesthetics/muscle relaxants
+260,6,Female,Pain,,cracked or broken tooth,,extraction
+261,67,Male,Other,,stained or discolored teeth,discolored teeth,scaling
+262,24,Male,Pain,,Tooth Pain,Impacted tooth,Extraction
+263,28,Female,Pain,,Sensitive teeth,Worn fillings,Refilling
+264,32,Male,Pain,,Bleeding or soring gums,,extraction
+265,35,Male,ulcers,fungal infection,Mouth ulcers and sores,Candidiasis,antifungal medication
+266,39,Female,ulcers,,Mouth ulcers and sores,Canker sores,no specific treatment
+267,41,Male,Other,,Bad breath,,
+268,71,Male,Pain,,Jaw pain or popping /clicking in jaw,malocclusion,orthodontic treatment
+269,68,Female,Pain,,cracked or broken tooth,,extraction
+270,63,Male,Other,,stained or discolored teeth,discolored teeth,scaling
+271,29,Male,Pain,,Tooth Pain,Dental Caries,Filling/Root canal/etc
+272,64,Female,Pain,,Sensitive teeth,Tooth decay,Filling/Root canal/etc
+273,59,Male,Pain,,Bleeding or soring gums,Gingivitis,Scaling
+274,49,Male,ulcers,fungal infection,Mouth ulcers and sores,Candidiasis,antifungal medication
+275,42,Female,ulcers,,Mouth ulcers and sores,Canker sores,no specific treatment
+276,39,Male,Other,,Bad breath,Dry mouth,Sialagogues
+277,31,Male,Pain,,Jaw pain or popping /clicking in jaw,arthritis,Nsaids/analagesics/surgery/physical therapy
+278,48,Female,Pain,,cracked or broken tooth,,extraction
+279,46,Male,Other,,stained or discolored teeth,discolored teeth,scaling
+280,47,Male,Pain,,Tooth Pain,Abscess,Diran the abscess/antibiotics
+281,43,Female,Pain,,Sensitive teeth,Fractured tooth,Extraction
+282,67,Male,Pain,,Bleeding or soring gums,,
+283,24,Male,ulcers,,Mouth ulcers and sores,Cold sores,topical anesthetics
+284,28,Female,ulcers,,Mouth ulcers and sores,Leukoplakia,Topical ointments containing retinoic acid
+285,32,Male,Other,,Bad breath,poor oral hygiene,Mouth rinse/Scaling
+286,35,Male,Pain,,Jaw pain or popping /clicking in jaw,dislocated jaw,local anesthetics/muscle relaxants
+287,39,Female,Pain,,cracked or broken tooth,,extraction
+288,41,Male,Other,,stained or discolored teeth,discolored teeth,scaling
+289,71,Male,Pain,,Tooth Pain,Impacted tooth,Extraction
+290,68,Female,Pain,,Sensitive teeth,Worn fillings,Refilling
+291,63,Male,Pain,,Bleeding or soring gums,,extraction
+292,29,Male,ulcers,fungal infection,Mouth ulcers and sores,Candidiasis,antifungal medication
+293,64,Female,ulcers,,Mouth ulcers and sores,Canker sores,no specific treatment
+294,59,Male,Other,,Bad breath,,
+295,49,Male,Pain,,Jaw pain or popping /clicking in jaw,malocclusion,orthodontic treatment
+296,42,Female,Pain,,cracked or broken tooth,,extraction
+297,39,Male,Other,,stained or discolored teeth,discolored teeth,scaling
+298,31,Male,Pain,,Tooth Pain,Dental Caries,Filling/Root canal/etc
+299,48,Female,Pain,,Sensitive teeth,Tooth decay,Filling/Root canal/etc
+300,46,Male,Pain,,Bleeding or soring gums,Gingivitis,Scaling
+301,47,Male,ulcers,fungal infection,Mouth ulcers and sores,Candidiasis,antifungal medication
+302,43,Female,ulcers,,Mouth ulcers and sores,Canker sores,no specific treatment
+303,19,Male,Other,,Bad breath,Dry mouth,Sialagogues
+304,6,Male,Pain,,Jaw pain or popping /clicking in jaw,arthritis,Nsaids/analagesics/surgery/physical therapy
+305,67,Female,Pain,,cracked or broken tooth,,extraction
+306,24,Male,Other,,stained or discolored teeth,discolored teeth,scaling
+307,28,Male,Pain,,Tooth Pain,Abscess,Diran the abscess/antibiotics
+308,32,Female,Pain,,Sensitive teeth,Fractured tooth,Extraction
+309,35,Male,Pain,,Bleeding or soring gums,,
+310,39,Male,ulcers,,Mouth ulcers and sores,Cold sores,topical anesthetics
+311,41,Female,ulcers,,Mouth ulcers and sores,Leukoplakia,Topical ointments containing retinoic acid
+312,71,Male,Other,,Bad breath,poor oral hygiene,Mouth rinse/Scaling
+313,68,Male,Pain,,Jaw pain or popping /clicking in jaw,dislocated jaw,local anesthetics/muscle relaxants
+314,63,Female,Pain,,cracked or broken tooth,,extraction
+315,29,Male,Other,,stained or discolored teeth,discolored teeth,scaling
+316,64,Male,Pain,,Tooth Pain,Impacted tooth,Extraction
+317,59,Female,Pain,,Sensitive teeth,Worn fillings,Refilling
+318,49,Male,Pain,,Bleeding or soring gums,,extraction
+319,42,Male,ulcers,fungal infection,Mouth ulcers and sores,Candidiasis,antifungal medication
+320,39,Female,ulcers,,Mouth ulcers and sores,Canker sores,no specific treatment
+321,31,Male,Other,,Bad breath,,
+322,48,Male,Pain,,Jaw pain or popping /clicking in jaw,malocclusion,orthodontic treatment
+323,46,Female,Pain,,cracked or broken tooth,,extraction
+324,47,Male,Other,,stained or discolored teeth,discolored teeth,scaling
+325,43,Male,Pain,,Tooth Pain,Dental Caries,Filling/Root canal/etc
+326,67,Female,Pain,,Sensitive teeth,Tooth decay,Filling/Root canal/etc
+327,24,Male,Pain,,Bleeding or soring gums,Gingivitis,Scaling
+328,28,Male,ulcers,fungal infection,Mouth ulcers and sores,Candidiasis,antifungal medication
+329,32,Female,ulcers,,Mouth ulcers and sores,Canker sores,no specific treatment
+330,35,Male,Other,,Bad breath,Dry mouth,Sialagogues
+331,39,Male,Pain,,Jaw pain or popping /clicking in jaw,arthritis,Nsaids/analagesics/surgery/physical therapy
+332,41,Female,Pain,,cracked or broken tooth,,extraction
+333,71,Male,Other,,stained or discolored teeth,discolored teeth,scaling
+334,68,Male,Pain,,Tooth Pain,Abscess,Diran the abscess/antibiotics
+335,63,Female,Pain,,Sensitive teeth,Fractured tooth,Extraction
+336,29,Male,Pain,,Bleeding or soring gums,,
+337,64,Male,ulcers,,Mouth ulcers and sores,Cold sores,topical anesthetics
+338,59,Female,ulcers,,Mouth ulcers and sores,Leukoplakia,Topical ointments containing retinoic acid
+339,49,Male,Other,,Bad breath,poor oral hygiene,Mouth rinse/Scaling
+340,42,Male,Pain,,Jaw pain or popping /clicking in jaw,dislocated jaw,local anesthetics/muscle relaxants
+341,39,Female,Pain,,cracked or broken tooth,,extraction
+342,31,Male,Other,,stained or discolored teeth,discolored teeth,scaling
+343,48,Male,Pain,,Tooth Pain,Impacted tooth,Extraction
+344,46,Female,Pain,,Sensitive teeth,Worn fillings,Refilling
+345,47,Male,Pain,,Bleeding or soring gums,,extraction
+346,43,Male,ulcers,fungal infection,Mouth ulcers and sores,Candidiasis,antifungal medication
+347,19,Female,ulcers,,Mouth ulcers and sores,Canker sores,no specific treatment
+348,6,Male,Other,,Bad breath,,
+349,67,Male,Pain,,Jaw pain or popping /clicking in jaw,malocclusion,orthodontic treatment
+350,24,Female,Pain,,cracked or broken tooth,,extraction
+351,28,Male,Other,,stained or discolored teeth,discolored teeth,scaling
+352,32,Male,Pain,,Tooth Pain,Dental Caries,Filling/Root canal/etc
+353,35,Female,Pain,,Sensitive teeth,Tooth decay,Filling/Root canal/etc
+354,39,Male,Pain,,Bleeding or soring gums,Gingivitis,Scaling
+355,41,Male,ulcers,fungal infection,Mouth ulcers and sores,Candidiasis,antifungal medication
+356,71,Female,ulcers,,Mouth ulcers and sores,Canker sores,no specific treatment
+357,68,Male,Other,,Bad breath,Dry mouth,Sialagogues
+358,63,Male,Pain,,Jaw pain or popping /clicking in jaw,arthritis,Nsaids/analagesics/surgery/physical therapy
+359,29,Female,Pain,,cracked or broken tooth,,extraction
+360,64,Male,Other,,stained or discolored teeth,discolored teeth,scaling
+361,59,Male,Pain,,Tooth Pain,Abscess,Diran the abscess/antibiotics
+362,49,Female,Pain,,Sensitive teeth,Fractured tooth,Extraction
+363,42,Male,Pain,,Bleeding or soring gums,,
+364,39,Male,ulcers,,Mouth ulcers and sores,Cold sores,topical anesthetics
+365,31,Female,ulcers,,Mouth ulcers and sores,Leukoplakia,Topical ointments containing retinoic acid
+366,48,Male,Other,,Bad breath,poor oral hygiene,Mouth rinse/Scaling
+367,46,Male,Pain,,Jaw pain or popping /clicking in jaw,dislocated jaw,local anesthetics/muscle relaxants
+368,47,Female,Pain,,cracked or broken tooth,,extraction
+369,43,Male,Other,,stained or discolored teeth,discolored teeth,scaling
+370,67,Male,Pain,,Tooth Pain,Impacted tooth,Extraction
+371,24,Female,Pain,,Sensitive teeth,Worn fillings,Refilling
+372,28,Male,Pain,,Bleeding or soring gums,,extraction
+373,32,Male,ulcers,fungal infection,Mouth ulcers and sores,Candidiasis,antifungal medication
+374,35,Female,ulcers,,Mouth ulcers and sores,Canker sores,no specific treatment
+375,39,Male,Other,,Bad breath,,
+376,41,Male,Pain,,Jaw pain or popping /clicking in jaw,malocclusion,orthodontic treatment
+377,71,Female,Pain,,cracked or broken tooth,,extraction
+378,68,Male,Other,,stained or discolored teeth,discolored teeth,scaling
+379,63,Male,Pain,,Tooth Pain,Dental Caries,Filling/Root canal/etc
+380,29,Female,Pain,,Sensitive teeth,Tooth decay,Filling/Root canal/etc
+381,64,Male,Pain,,Bleeding or soring gums,Gingivitis,Scaling
+382,59,Male,ulcers,fungal infection,Mouth ulcers and sores,Candidiasis,antifungal medication
+383,49,Female,ulcers,,Mouth ulcers and sores,Canker sores,no specific treatment
+384,42,Male,Other,,Bad breath,Dry mouth,Sialagogues
+385,39,Male,Pain,,Jaw pain or popping /clicking in jaw,arthritis,Nsaids/analagesics/surgery/physical therapy
+386,31,Female,Pain,,cracked or broken tooth,,extraction
+387,48,Male,Other,,stained or discolored teeth,discolored teeth,scaling
+388,46,Male,Pain,,Tooth Pain,Abscess,Diran the abscess/antibiotics
+389,47,Female,Pain,,Sensitive teeth,Fractured tooth,Extraction
+390,43,Male,Pain,,Bleeding or soring gums,,
+391,19,Male,ulcers,,Mouth ulcers and sores,Cold sores,topical anesthetics
+392,6,Female,ulcers,,Mouth ulcers and sores,Leukoplakia,Topical ointments containing retinoic acid
+393,67,Male,Other,,Bad breath,poor oral hygiene,Mouth rinse/Scaling
+394,24,Male,Pain,,Jaw pain or popping /clicking in jaw,dislocated jaw,local anesthetics/muscle relaxants
+395,28,Female,Pain,,cracked or broken tooth,,extraction
+396,32,Male,Other,,stained or discolored teeth,discolored teeth,scaling
+397,35,Male,Pain,,Tooth Pain,Impacted tooth,Extraction
+398,39,Female,Pain,,Sensitive teeth,Worn fillings,Refilling
+399,41,Male,Pain,,Bleeding or soring gums,,extraction
+400,71,Male,ulcers,fungal infection,Mouth ulcers and sores,Candidiasis,antifungal medication
+401,68,Female,ulcers,,Mouth ulcers and sores,Canker sores,no specific treatment
+402,63,Male,Other,,Bad breath,,
+403,29,Male,Pain,,Jaw pain or popping /clicking in jaw,malocclusion,orthodontic treatment
+404,64,Female,Pain,,cracked or broken tooth,,extraction
+405,59,Male,Other,,stained or discolored teeth,discolored teeth,scaling
+406,49,Male,Pain,,Tooth Pain,Dental Caries,Filling/Root canal/etc
+407,42,Female,Pain,,Sensitive teeth,Tooth decay,Filling/Root canal/etc
+408,39,Male,Pain,,Bleeding or soring gums,Gingivitis,Scaling
+409,31,Male,ulcers,fungal infection,Mouth ulcers and sores,Candidiasis,antifungal medication
+410,48,Female,ulcers,,Mouth ulcers and sores,Canker sores,no specific treatment
+411,46,Male,Other,,Bad breath,Dry mouth,Sialagogues
+412,47,Male,Pain,,Jaw pain or popping /clicking in jaw,arthritis,Nsaids/analagesics/surgery/physical therapy
+413,43,Female,Pain,,cracked or broken tooth,,extraction
+414,67,Male,Other,,stained or discolored teeth,discolored teeth,scaling
+415,24,Male,Pain,,Tooth Pain,Abscess,Diran the abscess/antibiotics
+416,28,Female,Pain,,Sensitive teeth,Fractured tooth,Extraction
+417,32,Male,Pain,,Bleeding or soring gums,,
+418,35,Male,ulcers,,Mouth ulcers and sores,Cold sores,topical anesthetics
+419,39,Female,ulcers,,Mouth ulcers and sores,Leukoplakia,Topical ointments containing retinoic acid
+420,41,Male,Other,,Bad breath,poor oral hygiene,Mouth rinse/Scaling
+421,71,Male,Pain,,Jaw pain or popping /clicking in jaw,dislocated jaw,local anesthetics/muscle relaxants
+422,68,Female,Pain,,cracked or broken tooth,,extraction
+423,63,Male,Other,,stained or discolored teeth,discolored teeth,scaling
+424,29,Male,Pain,,Tooth Pain,Impacted tooth,Extraction
+425,64,Female,Pain,,Sensitive teeth,Worn fillings,Refilling
+426,59,Male,Pain,,Bleeding or soring gums,,extraction
+427,49,Male,ulcers,fungal infection,Mouth ulcers and sores,Candidiasis,antifungal medication
+428,42,Female,ulcers,,Mouth ulcers and sores,Canker sores,no specific treatment
+429,39,Male,Other,,Bad breath,,
+430,31,Male,Pain,,Jaw pain or popping /clicking in jaw,malocclusion,orthodontic treatment
+431,48,Female,Pain,,cracked or broken tooth,,extraction
+432,46,Male,Other,,stained or discolored teeth,discolored teeth,scaling
